@@ -1,35 +1,28 @@
-- 👋 Hi, I’m @iamnitinsharma2024
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p align="center"><h1> Update your knowledge </h1></p>
 
-**Update your Knowledge**
-https://syncedreview.com/
+**1. [ Synced- AI Technology & Industry Review](https://syncedreview.com/)**
 
-https://ai.googleblog.com/
+**2. [ The latest research from Google](https://ai.googleblog.com/)**
 
-https://paperswithcode.com/
+**3. [The latest research from Google](https://ai.googleblog.com/)**
 
-https://arxiv.org/list/cs.AI/recent
+**4. [Trending Research Paper with Code](https://paperswithcode.com/)**
 
-https://deepmind.com/blog
+**5. [Arxiv Artificial Intelligence Recent](https://arxiv.org/list/cs.AI/recent)**
 
-https://openai.com/blog/
+**6. [Google Deepmind ](https://deepmind.com/blog)**
 
-https://spectrum.ieee.org/topic/artificial-intelligence/
+**7.[Openai Blog](https://openai.com/blog/)**
 
-https://www.marktechpost.com/ai-paper-summary/
+**8.[IEEE Spectrum Artificial Intelligence](https://spectrum.ieee.org/topic/artificial-intelligence/)**
 
-https://www.sciencedaily.com/news/computers_math/artificial_intelligence/
+**9. [Marktechpost AI Paper Summary]( https://www.marktechpost.com/ai-paper-summary/)**
 
-https://technews.acm.org/
+**10. [Science Daily AI](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/)**
 
-https://positivepsychology.com/
+**11. [ACM Tech News]( https://technews.acm.org/)**
 
+**12. [Positive Psychology]( https://positivepsychology.com/)**
 
+---
 
-<!---
-iamnitinsharma2024/iamnitinsharma2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
