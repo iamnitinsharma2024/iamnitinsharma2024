@@ -1,7 +1,7 @@
 <p align="center"><h1> List of Papers </h1></p>
 
-[Suppressing Pink Elephants with Direct Principle Feedback 15pg Feb 2024](../Papers in Details.md)
-**1. [ Suppressing Pink Elephants with Direct Principle Feedback 15pg Feb 2024](../Papers in Details.md)**
+
+*1. [ Suppressing Pink Elephants with Direct Principle Feedback 15pg Feb 2024](../Papers in Details.md)*
 
 Beyond Efficiency- A Systematic Survey of Resource-Efficient Large Language Models 60pg Jan 2024
 
