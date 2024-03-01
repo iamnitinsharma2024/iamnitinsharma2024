@@ -16,8 +16,15 @@
 
 **8.[IEEE Spectrum Artificial Intelligence](https://spectrum.ieee.org/topic/artificial-intelligence/)**
 
+**9. [Marktechpost AI Paper Summary]( https://www.marktechpost.com/ai-paper-summary/)**
 
+**10. [Science Daily AI](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/)**
 
+**11. [ACM Tech News]( https://technews.acm.org/)**
+
+**12. [Positive Psychology]( https://positivepsychology.com/)**
+
+---
 <p align="center"><h1> List of Papers </h1></p>
 Suppressing Pink Elephants with Direct Principle Feedback 15pg Feb 2024
 Benchmarking Large Language Models on Controllable Generation under Diversified Instructions 26pg Jan 2024
@@ -34,14 +41,4 @@ Llama 2- Open Foundation and Fine-Tuned Chat Models 77pg July 2023
 Survey of Hallucination in Natural Language Generation
 
 
-
-**9. [Marktechpost AI Paper Summary]( https://www.marktechpost.com/ai-paper-summary/)**
-
-**10. [Science Daily AI](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/)**
-
-**11. [ACM Tech News]( https://technews.acm.org/)**
-
-**12. [Positive Psychology]( https://positivepsychology.com/)**
-
----
 
